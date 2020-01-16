@@ -19,3 +19,4 @@ Line 9
 >>>>>>> Line 10 master
 Line 10
 Line 12
+Line 13
