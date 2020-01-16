@@ -12,3 +12,4 @@ Line 7
 Line 6
 >>>>>>> 71341c1dafa9c7c6ba0e39cf2b7439121cad86c6
 Line 8
+Line 9
